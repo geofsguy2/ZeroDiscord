@@ -23,7 +23,7 @@ const Oex = {
         904506957447172097, // Bot itself, just incase
         882891618473091082, // I2rys
     ],
-    token: "MTE4NDU4ODMxODU0NjA4MzkwMA.GxmW64.Jmyxeb3VzYi8dGKF8jleAv31MU5w4ZgpBfZF2E"
+    token: "MTE4NDU4ODMxODU0NjA4MzkwMA.GD9z2A.Tps6ivaeCvvI8waNLbwnGJU_fJboP96plD2ku4"
 }
 
 // Main
